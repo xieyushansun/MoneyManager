@@ -23,6 +23,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
     ListView listView_mainmenu;
     Animation animation;
     ImageView img_beginword;
+    //sdfsdfsdf
     public void initial()
     {
         listView_mainmenu = (ListView)findViewById(R.id.lv_mainmenu);
